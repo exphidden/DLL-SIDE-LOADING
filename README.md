@@ -25,4 +25,4 @@ Maintenance
 Update the offsets.hpp file after every official game patch update.
 
 Credits
-Discord ID: @Exp!, @hiddenofficial"
+Discord ID: @Exp!, @hiddenofficial
