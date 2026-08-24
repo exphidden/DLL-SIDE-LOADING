@@ -23,4 +23,4 @@ Maintenance
 * Update the offsets.hpp file after every official game patch update.
 
 Credits
-* Discord ID: @exphidden"# DLL-SIDE-LOADING" 
+* Discord ID: @exphidden"
